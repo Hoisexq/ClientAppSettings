@@ -1,11 +1,11 @@
 {
 	"FLogNetwork": 7,
-	"DFIntTaskSchedulerTargetFps": 500, // Set to desired max FPS value, set at 0 for the Maximum Frame Rate setting to work
+	"DFIntTaskSchedulerTargetFps": 500,
 	"FFlagGameBasicSettingsFramerateCap4": false,
-	"DFIntVoiceChatVolumeThousandths": 2000, // Voice chat volume in thousandths, default is 1000
+	"DFIntVoiceChatVolumeThousandths": 2000,
 	"DFIntMaxFrameBufferSize": 4,
-	"DFIntChatCap": 10000, // Changes the max chat history, 100 by default
-	"FIntCameraMaxZoomDistance": 10000, // Changes the zoom out distance if the game has not changed the default
+	"DFIntChatCap": 10000,
+	"FIntCameraMaxZoomDistance": 10000,
 	"FFlagDebugDefaultChannelStartMuted": true,
 	"FFlagDisableNewIGMinDUA": true,
 	"FFlagEnableChromePinnedChat": false,
@@ -50,7 +50,7 @@
 	"FFlagEnableBetaBadgeLearnMore": false,
 	"FFlagBetaBadgeLearnMoreLinkFormview": false,
 	"FStringVoiceBetaBadgeLearnMoreLink": "null",
-	"FStringWhitelistVerifiedUserId": "2035964235;", // Set value to desired user ID(s)
+	"FStringWhitelistVerifiedUserId": "2035964235;",
 	"DFFlagDisableDPIScale": true,
 	"DFFlagEnableDynamicHeadByDefault": false,
 	"DFFlagTextureQualityOverrideEnabled": true,
@@ -58,17 +58,17 @@
 	"DFIntPerformanceControlTextureQualityBestUtility": 3,
 	"FFlagEnableQuickGameLaunch": false,
 	"FFlagHandleAltEnterFullscreenManually": false,
-	"DFIntDebugFRMQualityLevelOverride": 1, // Overrides the current quality value, set at 0 for the ingame slider to work
+	"DFIntDebugFRMQualityLevelOverride": 1,
 	"FFlagRenderCheckThreading": true,
 	"FFlagRenderDebugCheckThreading2": true,
 	"FFlagRenderEnableGlobalInstancingD3D11": true,
 	"FFlagRenderEnableGlobalInstancingD3D10": true,
-	"FFlagRenderEnableGlobalInstancingMetal": true, // Mac only
+	"FFlagRenderEnableGlobalInstancingMetal": true,
 	"DFFlagDebugRenderForceTechnologyVoxel": true,
 	"FFlagDebugGraphicsDisableDirect3D11": false,
 	"FFlagDebugGraphicsPreferD3D11": true,
 	"FFlagDebugGraphicsPreferD3D11FL10": true,
-	"FFlagDebugGraphicsPreferMetal": true, // Mac only
+	"FFlagDebugGraphicsPreferMetal": true,
 	"FFlagGraphicsCheckComputeSupport": true,
 	"FFlagGraphicsEnableD3D10Compute": true,
 	"FFlagSimEnableDCD10": true,
